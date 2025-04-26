@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:acacia_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"mcwfurnitures:jungle_striped_chair","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

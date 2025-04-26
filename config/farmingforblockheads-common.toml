@@ -2,8 +2,11 @@
 # The range at which the chicken nest picks up laid eggs.
 chickenNestRange = 8
 
-# List of groups to disable. Has precedence over includedGroups. 'selling.seeds' for example would disable all seeds from the market.
-excludedGroups = [  ]
+# List of default presets to disable.
+disabledDefaultPresets = [  ]
+
+# List of optional presets to enable.
+enabledOptionalPresets = [  ]
 
 # The maximum amount of animals (per type) until the feeding trough stops feeding.
 feedingTroughMaxAnimals = 24
@@ -19,9 +22,6 @@ fertilizerBonusGrowthChance = 1.0
 
 # The chance for Fertilized Farmland to turn back into regular Farmland (per provided bonus).
 fertilizerRegressionChance = 0.0
-
-# List of groups to enable. 'default' is an alias for the inbuilt defaults (selling.seeds, selling.saplings and selling.fertilizers.minecraft).
-includedGroups = [ "default" ]
 
 # List of names the merchant can have.
 merchantNames = [ "Swap-O-Matic", "Emerald Muncher", "Weathered Salesperson" ]

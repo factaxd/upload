@@ -15,7 +15,7 @@ exampleInt = 42
 exampleIntList = [ 12, 24 ]
 
 # This is an example resource location set property
-exampleResourceLocationSet = [ "minecraft:dirt", "minecraft:diamond" ]
+exampleResourceLocationSet = [ "minecraft:diamond", "minecraft:dirt" ]
 
 # This is an example string property
 exampleString = "Hello World"
